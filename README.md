@@ -1,4 +1,4 @@
-# BACKDOOR-DETECTOR-FOR-BADNETS-USING-NEURAL-CLEANSE
+# Backdoor-Detector-For-Badnets-Using-Neural-Cleanse
 
 Introduction:
 
